@@ -16,7 +16,7 @@ public class Ramas {
      */
     public static void main(String[] args) {
         
-        System.err.println(" Version 1.0");
+        System.out.println(" Version 2.0");
     }
     
 }
